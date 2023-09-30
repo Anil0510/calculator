@@ -1,0 +1,34 @@
+.container{
+top:0px;
+display: inline-block;
+background-color:rgba(143, 137, 137, 0.121);
+
+border-style: solid;
+justify-content: center;
+position: relative;
+margin-top:100px ;
+margin-left: 400px;
+color: darkmagenta ;
+
+
+
+
+
+}
+button:hover{
+    background-color: red;
+    border-style: groove;
+
+}
+
+
+
+    
+    
+    
+    
+    
+
+
+
+    
